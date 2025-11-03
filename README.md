@@ -82,15 +82,15 @@ import java.io.IOException;
 
 ## Cómo ejecutar el proyecto
 
-1 Clona el repositorio:
+1. Clona el repositorio:
 git clone https://github.com/megalol-dev/gestor-tareas-java.git
 
-2 Abre el proyecto en Eclipse o en cualquier IDE compatible con Java.
+2. Abre el proyecto en Eclipse o en cualquier IDE compatible con Java.
 
-3 Ejecuta la clase principal:
+3. Ejecuta la clase principal:
 Tareas_Interface.java
 
-4 ¡Disfruta del gestor de tareas!
+4. Disfruta del gestor de tareas
 
 ---
 

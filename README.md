@@ -76,10 +76,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.nio.file.*;
 import java.io.IOException;
-
+```
+ 
 ---
 
 ## Cómo ejecutar el proyecto
+
 1 Clona el repositorio:
 git clone https://github.com/megalol-dev/gestor-tareas-java.git
 
@@ -87,6 +89,8 @@ git clone https://github.com/megalol-dev/gestor-tareas-java.git
 
 3 Ejecuta la clase principal:
 Tareas_Interface.java
+
+4 ¡Disfruta del gestor de tareas!
 
 ---
 
